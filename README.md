@@ -2,7 +2,7 @@ helloci
 =======
 
 Test projects for Git training
-
+asdfwdfa
 Build
 =======
 Java project:
